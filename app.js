@@ -9,3 +9,6 @@ console.log(true);
 // Ajout d'un potentiel conflit
 
 console.log("Conflit");
+
+console.log("Bogue");
+
