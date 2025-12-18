@@ -7,3 +7,5 @@ console.log(1+1);
 console.log(true);
 
 // Ajout d'un potentiel conflit
+
+console.log("Conflit");
